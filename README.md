@@ -1,6 +1,6 @@
 # Unit #0- *cats_landing_page*
 
-*cats_landing_page* is a web app that _______.
+*cats_landing_page* is a web app that shows an entertaining landing page.
 
 Submitted by: **Tejal Patel**
 
@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).m
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Tejal Patel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
