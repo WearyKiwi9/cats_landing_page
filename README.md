@@ -1,4 +1,4 @@
-# Unit 0 # - *cats_landing_page*
+# Unit #0- *cats_landing_page*
 
 *cats_landing_page* is a web app that _______.
 
@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/WearyKiwi9/cats_landing_page/blob/master/Cats_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).m
 
