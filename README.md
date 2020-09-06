@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 
 * [x] Website is dynamic. It can be viewed finely with all mobile devices
 * [x] Images are dynamic. They change size accordingly.
-* [x] Impleted hamburger menu when switched to mobile view
+* [x] Implemented hamburger menu when switched to mobile view
 
 ## Video Walkthrough 
 
